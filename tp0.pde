@@ -1,3 +1,6 @@
+//Ruiz Milagro
+//tp0 comision 1
+
 PImage img;
 void setup(){
 size(800,400);
